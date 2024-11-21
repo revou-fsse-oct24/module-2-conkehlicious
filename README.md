@@ -21,6 +21,15 @@
 ##### 2. Add new site and import an existing project
 <p><img src="img/net02.png" width = "400px"/></p>
 
+##### 3. Deploy your Project with github account
+<p><img src="img/net03.png" width = "400px"/></p>
+
+##### 4. pick the project 
+<p><img src="img/net04.png" width = "400px"/></p>
+
+
+
+
 
 
 
