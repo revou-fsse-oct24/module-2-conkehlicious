@@ -2,7 +2,7 @@
 
 #### TASK
 
-##### 1. Custom Font Using GOOGLE FONT and  Responsive background image
+##### 1. Custom Font Using GOOGLE FONT,  Responsive background image and simple animation
 
 <p><img src="img/task01.png"/></p>
 
