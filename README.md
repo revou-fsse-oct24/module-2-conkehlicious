@@ -27,6 +27,11 @@
 ##### 4. pick the project 
 <p><img src="img/net04.png" width = "400px"/></p>
 
+##### 5. custom your site name and wait for the process...and you are done
+<p><img src="img/net05.png" width = "400px"/></p>
+
+
+
 
 
 
