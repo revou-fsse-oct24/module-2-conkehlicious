@@ -34,7 +34,7 @@
 ## HOW TO ADD DOMAIN TO NETLIFY
 
 ##### 1. Enter your domain name
-<p><img src="img/net6.png" width = "400px"/></p>
+<p><img src="img/net06.png" width = "400px"/></p>
 
 
 
