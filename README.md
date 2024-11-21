@@ -18,6 +18,12 @@
 ##### 1. Login in using github account
 <p><img src="img/net01.png" width = "400px"/></p>
 
+##### 2. Add new site and import an existing project
+<p><img src="img/net02.png" width = "400px"/></p>
+
+
+
+
 
 
 
