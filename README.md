@@ -9,6 +9,10 @@
 ##### 2. Text Shadow To Text
 <p><img src="img/task02.png"/></p>
 
+##### 3.  asymmetrical layout using grid 
+<p><img src="img/task03.png"/></p>
+
+
 
 
 
