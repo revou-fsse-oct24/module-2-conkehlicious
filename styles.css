@@ -306,7 +306,7 @@ h6 {
   .product-grid {
     grid-template-columns: 1fr 1fr 1fr 1fr;
   }
-  .footer-menu {
+  footer .footer-menu {
     grid-template-columns: 1fr;
   }
 }
