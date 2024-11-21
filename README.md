@@ -1,8 +1,15 @@
 # ABOUT THIS PROJECT
 
 #### TASK
-<p><img src="img/task01.png"/></p>
+
 ##### 1. Custom Font Using GOOGLE FONT
+
+<p><img src="img/task01.png"/></p>
+
+##### 2. Text Shadow To Text
+<p><img src="img/task02.png"/></p>
+
+
 
 
 
