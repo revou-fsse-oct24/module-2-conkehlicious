@@ -1,7 +1,8 @@
 # ABOUT THIS PROJECT
 
 #### TASK
-<p><img src="task01.png"/></p>
+<p><img src="img/task01.png"/></p>
+##### 1. Custom Font Using GOOGLE FONT
 
 
 
