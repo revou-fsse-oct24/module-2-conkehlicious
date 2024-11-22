@@ -304,9 +304,13 @@ h6 {
     width: 100%;
   }
   .product-grid {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px 100px 100px;
   }
   footer .footer-menu {
     grid-template-columns: 1fr;
+  }
+  .img3 {
+    height: 221px;
   }
 }
