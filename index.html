@@ -3,6 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- ------------------------------------------------------------------------------------------------------------------------- -->
     <!-- link to poppins font -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -17,14 +19,24 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
     />
-    <!-- tailwind-------------------------------- -->
+    <!-- tailwind---------------------------------->
     <script src="https://cdn.tailwindcss.com"></script>
+    <!-- ionicon link -->
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+    <!-- -------------------------------------------------------------------------------------------------------------------------- -->
     <title>VEGAS MOTOR RENTAL</title>
   </head>
   <body>
     <!-- NAVBAR START -->
 
-    <nav>
+    <!-- <nav>
       <div class="menus">
         <ul class="nav-menu">
           <li class="nav-item"><a href="#">HOME</a></li>
@@ -34,12 +46,59 @@
           <li class="nav-item"><a href="#">LOCATION</a></li>
         </ul>
       </div>
-    </nav>
+    </nav> -->
     <!-- NAVBAR END -->
+    <!-- NAVBAR TAILWIND -->
+    <nav class="p-5 shadow md:flex md:items-center md:justify-between">
+      <div class="flex justify-between items-center">
+        <a
+          href="index.html"
+          class="text-2xl font-[arial] cursor-pointer text-white"
+          ><img
+            src="/img/royalgif02.gif"
+            class="h-10 inline"
+            alt="royalgif02"
+          />
+          RENT ME VEGAS</a
+        >
+        <span class="text-3xl cursor-pointer text-white md:hidden mx-2 block"
+          ><ion-icon name="menu-outline" onclick="Menu(this)"></ion-icon
+        ></span>
+      </div>
+      <ul
+        class="md:flex md:items-center z-[-1] md:z-auto md:static absolute bg-gray-500 w-full left-0 md:w-auto md:py-0 py-0 md:pl-0 pl-7 md:opacity-100 opacity-0 top-[-400px] transition-all ease-in duration-500"
+      >
+        <li class="mx-4 my-6 md:my-0">
+          <a href="#" class="text-sm text-white hover:text-red-500 suration-500"
+            >HOME</a
+          >
+        </li>
+        <li class="mx-4 my-6 md:my-0">
+          <a href="#" class="text-sm text-white hover:text-red-500 suration-500"
+            >PRICING</a
+          >
+        </li>
+        <li>
+          <a href="#" class="text-sm text-white hover:text-red-500 suration-500"
+            >SHOP</a
+          >
+        </li>
+        <li class="mx-4 my-6 md:my-0">
+          <a href="#" class="text-sm text-white hover:text-red-500 suration-500"
+            >TOUR</a
+          >
+        </li>
+        <li class="mx-4 my-6 md:my-0">
+          <a href="#" class="text-sm text-white hover:text-red-500 suration-500"
+            >LOCATION</a
+          >
+        </li>
+      </ul>
+    </nav>
 
     <!-- container hero start -->
     <div class="main-container">
-      <div class="main-tittle">
+      <div class="main-tittle01">
         <h1>LIFE IS GOOD</h1>
         <p>Rent a Motorbike in VEGAS</p>
       </div>
