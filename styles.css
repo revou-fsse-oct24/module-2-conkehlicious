@@ -14,9 +14,10 @@ body {
 }
 /* navbar */
 nav {
+  width: 100%;
   text-align: center;
   background-color: var(--main-blue);
-  position: sticky;
+  position: fixed;
   z-index: 9999;
 }
 
@@ -94,6 +95,29 @@ nav {
   background-color: #df272e;
 }
 /* container promo end */
+
+/* container explore  start*/
+.container-explore {
+  margin-top: 50px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(../img/vegas-sign.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.tour {
+  display: grid;
+  grid-column: 1fr;
+  justify-content: center;
+  font-size: 25px;
+  color: rgb(201, 194, 194);
+  padding: 100px 0 100px 0px;
+}
+.tour li {
+  margin-left: 30px;
+  list-style-image: url(../images/icons8-motorbike-25.png);
+}
+
+/* container explore  end */
 
 /* pick your bike */
 .pick-title {
@@ -261,7 +285,7 @@ h6 {
     display: none;
   } */
   .main-tittle01 {
-    margin-top: -100px;
+    margin-top: -130px;
   }
   .main-tittle01 h1 {
     font-size: 25px;
