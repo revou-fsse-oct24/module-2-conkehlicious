@@ -33,8 +33,19 @@
 
 ## HOW TO ADD DOMAIN TO NETLIFY
 
-##### 1. Enter your domain name
-<p><img src="img/net6.png" width = "400px"/></p>
+
+
+##### To connect a custom domain and DNS in Netlify, you can do the following:
+###### • Log in to your Netlify account 
+###### • Select the site you want to link to a custom domain 
+###### • Click Set up a custom domain 
+###### • Enter the domain you want to add and click Verify 
+###### • Confirm that you own the domain and click Add domain 
+###### • Click the options menu next to your new domain and choose Set up Netlify DNS 
+###### • Copy the name servers from the domain name servers screen 
+###### •In the dashboard where you bought your domain, set the DNS to custom DNS and add the DNS names from Netlify 
+###### • You might need to wait a few minutes for the settings to propagate. 
+
 
 
 
